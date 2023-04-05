@@ -51,4 +51,4 @@
 
 ![image-20230405141120575](F:\vueText\vue-houtai\hotl-system\mdimg\image-20230405141120575.png)
 
-* 由于时间问题，其他界面暂未开发...
+* 由于时间问题，其他界面暂未开发..

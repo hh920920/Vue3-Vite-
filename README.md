@@ -21,7 +21,7 @@
 
 2、通过yarn dev 或 npm run serve 来运行项目
 
-![image-20230405135541245]https://github.com/hh920920/images/blob/main/img/image-20230405135320275.png)
+![img](https://github.com/hh920920/images/blob/main/img/image-20230405135320275.png)
 
 # 四、系统部分界面运行图
 
@@ -31,24 +31,24 @@
 
 * 登录后会返回token及相关数据，通过vuex或localstorage保存数据
 
-  ![image-20230405140115813](F:\vueText\vue-houtai\hotl-system\mdimg\image-20230405140115813.png)
+![img](https://github.com/hh920920/images/blob/main/img/image-20230405140115813.png)
 
   * Admin账号登录： 
 
-  ![image-20230405140612208](F:\vueText\vue-houtai\hotl-system\mdimg\image-20230405140612208.png)
+![img](https://github.com/hh920920/images/blob/main/img/image-20230405140612208.png)
 
-  ![image-20230405140820591](F:\vueText\vue-houtai\hotl-system\mdimg\image-20230405140820591.png)
+![img](https://github.com/hh920920/images/blob/main/img/image-20230405140820591.png)
 
 ## 3.2、用户管理界面
 
 * 可以对用户进行添加、删除、修改等
 
-![image-20230405141023195](F:\vueText\vue-houtai\hotl-system\mdimg\image-20230405141023195.png)
+![img](https://github.com/hh920920/images/blob/main/img/image-20230405141023195.png)
 
 ## 3.3、其他界面
 
 * 退出功能：右上角点击或鼠标悬停头像时出现功能，退出则清除token及相关数据
 
-![image-20230405141120575](F:\vueText\vue-houtai\hotl-system\mdimg\image-20230405141120575.png)
+![img](https://github.com/hh920920/images/blob/main/img/image--20230405141120575.png)
 
 * 由于时间问题，其他界面暂未开发..

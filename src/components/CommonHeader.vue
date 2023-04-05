@@ -41,13 +41,9 @@ export default defineComponent({
   setup() {
     let store = useStore();
     let getImageUrl = (user) => {
-      // console.log(import.meta.url);
-      // console.log(new URL("../assets/images/user.png", import.meta.url));
       return new URL(`../assets/images/${user}.jpg`, import.meta.url).href;
     };
-    // let userImg = require("../assets/images/user.png");
     let handleCollapse = () => {
-      // 调用vuex中的mutations
       store.commit("updateIsCollapse");
     };
 

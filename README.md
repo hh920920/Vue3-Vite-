@@ -21,7 +21,7 @@ https://gitee.com/zyl-study/images/blob/master/images/images/image-2023040513532
 
 2、通过yarn dev 或 npm run serve 来运行项目
 
-![image-20230405135541245](F:\vueText\vue-houtai\hotl-system\mdimg\image-20230405135541245.png)
+![image-20230405135541245].\mdimg\image-20230405135541245.png)
 
 # 四、系统部分界面运行图
 

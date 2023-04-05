@@ -17,7 +17,7 @@
 
 1、通过 yarn install 或 npm install 命令来下载依赖
 
-![img](https://gitee.com/zyl-study/images/blob/master/images/images/image-20230405135320275.png)
+![img](https://gitee.com/zyl-study/images/raw/master/images/images/image-20230405135320275.png)
 
 2、通过yarn dev 或 npm run serve 来运行项目
 

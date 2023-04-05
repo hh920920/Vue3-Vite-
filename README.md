@@ -17,7 +17,7 @@
 
 1、通过 yarn install 或 npm install 命令来下载依赖
 
-https://github.com/hh920920/images/blob/main/img/image-20230405135320275.png
+![img](https://github.com/hh920920/images/blob/main/img/image-20230405135320275.png)
 
 2、通过yarn dev 或 npm run serve 来运行项目
 

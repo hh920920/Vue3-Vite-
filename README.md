@@ -43,7 +43,7 @@
 
 * 可以对用户进行添加、删除、修改等
 
-![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405141023195.png)
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405141120575.png)
 
 ## 4.3、其他界面
 

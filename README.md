@@ -21,7 +21,7 @@
 
 2、通过yarn dev 或 npm run serve 来运行项目
 
-![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405135320275.png)
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405135541245.png)
 
 # 四、系统部分界面运行图
 

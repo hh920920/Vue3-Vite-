@@ -43,11 +43,12 @@
 
 * 可以对用户进行添加、删除、修改等
 
-![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405141120575.png)
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405141023195.png)
 
 ## 4.3、其他界面
 
 * 退出功能：右上角点击或鼠标悬停头像时出现功能，退出则清除token及相关数据
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405141120575.png)
 
 
 * 由于时间问题，其他界面暂未开发..

@@ -31,19 +31,19 @@
 
 * 登录后会返回token及相关数据，通过vuex或localstorage保存数据
 
-![img](https://gitee.com/zyl-study/images/raw/master/images/images/image-20230405140115813.png)
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405140115813.png)
 
   * Admin账号登录： 
 
-![img](https://gitee.com/zyl-study/images/raw/master/images/images/image-20230405140612208.png)
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405140612208.png)
 
-![img](https://gitee.com/zyl-study/images/raw/master/images/images/image-20230405140820591.png)
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405140820591.png)
 
 ## 4.2、用户管理界面
 
 * 可以对用户进行添加、删除、修改等
 
-![img](https://gitee.com/zyl-study/images/raw/master/images/images/image-20230405141023195.png)
+![img](https://images-1258660220.cos.ap-guangzhou.myqcloud.com/image-20230405141023195.png)
 
 ## 4.3、其他界面
 
